@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1668748648,
-        "narHash": "sha256-BR5cKQ6gZb4+p08ns2ShCYcTNOf790dm6FOlVDZe/K4=",
+        "lastModified": 1668754427,
+        "narHash": "sha256-6lyHpfzhBxPtxLFmEJpgBWx4OvhWMFIdC8GMpSxx9jI=",
         "owner": "nim-nix-pkgs",
         "repo": "arduino",
-        "rev": "6dd1ddf02b1c464cdf19fdf325d83a564c3f7196",
+        "rev": "aa24417c5ea9dc8996b1769f34bd9b9522777d9f",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "0_3_0",
-        "lastModified": 1668748648,
-        "narHash": "sha256-BR5cKQ6gZb4+p08ns2ShCYcTNOf790dm6FOlVDZe/K4=",
+        "lastModified": 1668754427,
+        "narHash": "sha256-6lyHpfzhBxPtxLFmEJpgBWx4OvhWMFIdC8GMpSxx9jI=",
         "owner": "nim-nix-pkgs",
         "repo": "arduino",
-        "rev": "6dd1ddf02b1c464cdf19fdf325d83a564c3f7196",
+        "rev": "aa24417c5ea9dc8996b1769f34bd9b9522777d9f",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668748648,
-        "narHash": "sha256-BR5cKQ6gZb4+p08ns2ShCYcTNOf790dm6FOlVDZe/K4=",
+        "lastModified": 1668754427,
+        "narHash": "sha256-6lyHpfzhBxPtxLFmEJpgBWx4OvhWMFIdC8GMpSxx9jI=",
         "owner": "nim-nix-pkgs",
         "repo": "arduino",
-        "rev": "6dd1ddf02b1c464cdf19fdf325d83a564c3f7196",
+        "rev": "aa24417c5ea9dc8996b1769f34bd9b9522777d9f",
         "type": "github"
       },
       "original": {
